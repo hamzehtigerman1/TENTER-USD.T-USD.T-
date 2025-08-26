@@ -8,8 +8,8 @@ USD.T tokens can be traded on decentralized exchanges
 **Network:** Binance Smart Chain (BEP20)  
 
  # NAME
--**name:** TENTER USD.T List",
--**tags:** stablecoin
+- **name:** TENTER USD.T List",
+- **tags:** stablecoin
 
 ## Links
 - **logoURI":** https://raw.githubusercontent.com/hamzehtigerman1/TENTER-USD.T-USD.T-/main/0x8070Af07ACa4ddCD10D22233dB826bCF987F2070.png
