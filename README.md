@@ -7,6 +7,7 @@ USD.T tokens can be traded on decentralized exchanges
 **Contract Address:** 0x8070Af07ACa4ddCD10D22233dB826bCF987F2070
 **Network:** Binance Smart Chain (BEP20)  
 
+ # NAME
 -**name:** TENTER USD.T List",
 -**tags:** stablecoin
 
