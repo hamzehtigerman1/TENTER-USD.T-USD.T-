@@ -20,6 +20,6 @@ USD.T tokens can be traded on decentralized exchanges
 ## Token Details
 - **name:** TENTER USD.T
 - **symbol:** USD.T
-- **decimals:** 18,
+- **decimals:** 18
 - **logoURI:** https://raw.githubusercontent.com/hamzehtigerman1/TENTER-USD.T-USD.T-/main/0x8070Af07ACa4ddCD10D22233dB826bCF987F20
 
